@@ -1,4 +1,6 @@
 # BizDataMiner_python
+订单异常类型判断
+
 该项目中可能用到的知识包括：
 
 axis=0表述列 
